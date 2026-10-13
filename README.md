@@ -3,8 +3,8 @@
 Where to look for travel funding as a PhD student in the math department. 
 This repo contains all the scholarships and funding sources I found over my 4 years as a PhD student at KTH—if you know of others, please share, and I'll add them!
 
-First: **do you even have money to spend?** Ask your
-supervisor, whether you have your own project number or you're borrowing
+First: **Are you sure you do not have money to spend?** Ask your
+supervisor, whether you have your own project number or you're using
 theirs, then email `finance@math.kth.se` and ask how much is left. 
 
 ## Where to apply for travel funding
