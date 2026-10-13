@@ -9,8 +9,7 @@ theirs, then email `finance@math.kth.se` and ask how much is left.
 
 ## Where to apply for travel funding
 
-- **Erasmus staff mobility (Europe):** You can get this one twice over your whole PhD, up to a month each time.
-  (generous). The best part is that if you don't spend it all, no one asks for receipts, so you can use the leftovers for future trips. See https://intra.kth.se/en/anstallning/karriar/karriar-och-kompetensutveckling-utbud/kategori/personalmobilitet/personalmobilitet-inom-europa-via-erasmus-1.30170
+- **Erasmus staff mobility (Europe):** You can get this one twice over your whole PhD, up to a month each time (generous). The best part is that if you don't spend it all, no one asks for receipts, so you can use the leftovers for future trips. See https://intra.kth.se/en/anstallning/karriar/karriar-och-kompetensutveckling-utbud/kategori/personalmobilitet/personalmobilitet-inom-europa-via-erasmus-1.30170
 Contact **Anna Hultgren** at **annahg@kth.se** — she's lovely and replies super fast.
 - 
 
