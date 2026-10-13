@@ -1,4 +1,4 @@
-# Funding_mathKTH
+# Funding at math Department KTH for PhDs
 
 Where to look for travel funding as a PhD student in the math department. 
 This repo contains all the scholarships and funding sources I found over my 4 years as a PhD student at KTH—if you know of others, please share, and I'll add them!
